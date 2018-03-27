@@ -1,0 +1,3 @@
+[submodule "vim/ag.vim"]
+	path = vim/ag.vim
+	url = https://github.com/rking/ag.vim.git
